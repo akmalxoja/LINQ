@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mashq3linq", "Mashq3linq\Mashq3linq.csproj", "{5738EB42-C427-46D5-A7B9-59A91AF55D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5738EB42-C427-46D5-A7B9-59A91AF55D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5738EB42-C427-46D5-A7B9-59A91AF55D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5738EB42-C427-46D5-A7B9-59A91AF55D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5738EB42-C427-46D5-A7B9-59A91AF55D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AD35BE-D9AB-48B9-86B2-FC417097D11A}
+	EndGlobalSection
+EndGlobal
